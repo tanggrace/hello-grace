@@ -5,6 +5,8 @@ My pre-work project for CodePath Mobile App Design Workshop Series.
 
 ### App Walk-though
 
+<iframe src="https://drive.google.com/file/d/1LfEOTLFySxOIrb9LTLVlzvfq0hlqJoTA/preview" width="640" height="480"></iframe>
+
 <img src="https://drive.google.com/file/d/1LfEOTLFySxOIrb9LTLVlzvfq0hlqJoTA/preview" width=200><br>
 
 ### Required User Stories
